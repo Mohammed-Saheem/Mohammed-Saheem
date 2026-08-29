@@ -1,4 +1,4 @@
-# 💫 Mohammed Sahu (Saheem)
+# 💫 Mohammed Saheem
 
 <p align="center">
   <a href="https://git.io/typing-svg">
