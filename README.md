@@ -72,33 +72,12 @@ I am a **Software Engineer specializing in Full-Stack development** with a stron
 
 ---
 
-### 📊 GitHub Stats & Insights
-
-<div align="center">
-
-| **General Stats** | **Streak Stats** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="400" /> | <img src="https://nirzak-streak-stats.vercel.app/?user=Mohammed-Saheem&theme=dark&hide_border=false" width="400" /> |
-
-<br />
-
-| **Top Languages** |
-| :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450" /> |
-
-<br />
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Mohammed-Saheem&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
-
-</div><br>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Mohammed-Saheem&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
+
+</div><br>
+
