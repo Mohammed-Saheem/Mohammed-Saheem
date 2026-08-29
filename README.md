@@ -94,4 +94,11 @@ I am a **Software Engineer specializing in Full-Stack development** with a stron
   </a>
 </p>
 
-</div>
+</div><br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mohammed-Saheem&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohammed-Saheem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
